@@ -4,7 +4,7 @@
 I've been working with IT for 20 years in the technical area and in the last two years I'm specializing in Full Stack Web Programmer. I'm married, I have a daughter, and I have two Schnauzer dogs. I love my wife, daughter and dogs so much!
 
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / PHP
 
 - 💻 I’m seeking for my first dev job… 
 - 🌱 I’m currently learning a little bit of everything… 
