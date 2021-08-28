@@ -78,6 +78,5 @@ I've been working with IT for 20 years in the technical area and in the last two
 #### A SNAKE!!! LOL
   
 ![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)
   </div>
