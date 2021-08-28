@@ -1,7 +1,7 @@
 ### Oiii! Eu sou devLeCoelhoOfficial
 ##### Sou Casado e estudante de Full Stack Desenvolvimento Web
 
-Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especializei em Full Stack Web Programmer. Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo tanto minha esposa, filha e cachorros!
+Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me especializando em ser um Programador Web Full Stack. Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo tanto minha esposa, filha e cachorros!
 
 - 💻 Estou procurando meu primeiro emprego de desenvolvedor ...
 - 🌱 Atualmente, estou aprendendo um pouco de tudo na área...
@@ -42,7 +42,7 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especi
 ### Hi! I'm Leandro Coelho (devLeCoelhoOfficial)
 #### I'm married and student of Full Stack Web Developer
 
-I've been working with IT for 20 years in the technical area and in the last two years I'm specializing in Full Stack Web Programmer. I'm married, I have a daughter, and I have two Schnauzer dogs. I love my wife, daughter and dogs so much!
+I've been working with IT for 20 years in the technical area and for the last two years I'm specializing in being a Full Stack Web Programmer. I am married, I have a daughter and two Schnauzer dogs. I love my wife, daughter and dogs so much!
 
 
 - 💻 I’m seeking for my first dev job… 
