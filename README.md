@@ -12,7 +12,7 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especi
 - ⚡ Curiosidade: adoro jogar videogame e em equipamentos Apple
 
 <div style="display: inline_block">
-  <img height="160em" widsrc="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeCoelhoOfficial&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
