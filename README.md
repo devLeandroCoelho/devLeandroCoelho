@@ -24,3 +24,5 @@ Skills: REACT / JS / HTML / CSS / PHP
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)  
+
+![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
