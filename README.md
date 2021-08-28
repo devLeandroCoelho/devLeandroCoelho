@@ -38,8 +38,8 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especi
  
 </div>
 
- ====================================== IN ENGLISH NOW ======================================
-
+ # IN ENGLISH NOW
+ 
 ### Hi! I'm Leandro Coelho (devLeCoelhoOfficial)
 #### I'm married and student of Full Stack Web Developer
 
