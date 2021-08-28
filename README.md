@@ -33,7 +33,6 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especi
   
  ## Olha a Cobra!!! KKK
 ![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)
  
 </div>
