@@ -30,8 +30,11 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especi
  <a href="https://discord.gg/MBXryGEB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lecoelhoofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lecoelhoofficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devlecoelhoofficial/devlecoelhoofficial/blob/output/github-contribution-grid-snake.svg)
+  
+ #### Olha a Cobra!!! KKK
+![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)
  
 </div>
 
@@ -71,6 +74,8 @@ I've been working with IT for 20 years in the technical area and in the last two
  <a href="https://discord.gg/MBXryGEB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lecoelhoofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lecoelhoofficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+#### A SNAKE!!! LOL
 ![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)
+  
