@@ -54,11 +54,9 @@ I've been working with IT for 20 years in the technical area and in the last two
 - 🥅 2022-2025 Goals: Return to live in the US, working as a Full Stack Web Developer 
 - ⚡ Fun fact: I love play videogame and on Apple devices
 
-<div>
-  <a href="https://github.com/devLeCoelhoOfficial">
-  <img height="160em" widsrc="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: inline_block">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeCoelhoOfficial&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
