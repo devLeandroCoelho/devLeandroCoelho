@@ -1,8 +1,13 @@
-## Oiii! Eu sou devLeCoelhoOfficial 
+## Oiii! Eu sou devLeCoelhoOfficial | Hi! I'm Leandro Coelho (devLeCoelhoOfficial)
+### Sou Casado e estudante de Full Stack Desenvolvimento Web | I'm married and student of Full Stack Web Developer
+
+Trabalho com TI há 20 anos na área técnica e nos últimos dois anos me especializei em Full Stack Web Programmer. Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo tanto minha esposa, filha e cachorros!
+I've been working with IT for 20 years in the technical area and in the last two years I'm specializing in Full Stack Web Programmer. I'm married, I have a daughter, and I have two Schnauzer dogs. I love my wife, daughter and dogs so much!
+
 <div>
   <a href="https://github.com/devLeCoelhoOfficial">
-  <img height="180em" widsrc="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeCoelhoOfficial&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" widsrc="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeCoelhoOfficial&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -16,20 +21,18 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lecoelhoofficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/MBXryGEB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lecoelhoofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lecoelhoofficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devlecoelhoofficial/devlecoelhoofficial/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
 
 ### Hi there 👋, my name is Leandro Coelho (devLeCoelhoOfficial)
-#### I'm married and student of Full Stack Web Development
+#### I'm married and student of Full Stack Web Developer
 
 I've been working with IT for 20 years in the technical area and in the last two years I'm specializing in Full Stack Web Programmer. I'm married, I have a daughter, and I have two Schnauzer dogs. I love my wife, daughter and dogs so much!
 
