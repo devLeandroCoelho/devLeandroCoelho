@@ -12,8 +12,8 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me 
 - ⚡ Curiosidade: adoro jogar videogame e em equipamentos Apple
 
 <div style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeCoelhoOfficial&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeandroCoelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -54,8 +54,8 @@ I've been working with IT for 20 years in the technical area and for the last tw
 - ⚡ Fun fact: I love play videogame and on Apple devices
 
 <div style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeCoelhoOfficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeCoelhoOfficial&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeandroCoelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
