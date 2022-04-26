@@ -44,7 +44,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha esposa, f
 ### Hi! I'm Leandro Coelho (devLeCoelhoOfficial)
 #### I'm married and student of Full Stack Developer
 
-I've been working with IT for 20 years in the technical area and for the last two years I'm specializing in being a Full Stack Web Programmer. I'm married, I have a daughter and two Schnauzer dogs. I love my wife, daughter and dogs so much!
+I've been working with IT for 20 years in the technical area and for the last two years I'm specializing in being a Full Stack Programmer. I'm married, I have a daughter and two Schnauzer dogs. I love my wife, daughter and dogs so much!
 
 
 - 💻 I'm working in the Process area of a large retail chain stores and I'm looking for my first job as a developer...
