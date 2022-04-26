@@ -1,15 +1,17 @@
 ### Oiii! Eu sou devLeCoelhoOfficial
 ##### Sou Casado e estudante de Full Stack Desenvolvimento Web
 
-Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me especializando em ser um Programador Web Full Stack. Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo tanto minha esposa, filha e cachorros!
+Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me especializando em ser um Programador Full Stack. 
 
-- 💻 Estou procurando meu primeiro emprego de desenvolvedor ...
-- 🌱 Atualmente, estou aprendendo um pouco de tudo na área...
-- 🤔 Estou procurando ajuda com VUE ...
-- 💬 Pergunte-me sobre qualquer coisa ...
+Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha esposa, filha e cachorros!
+
+- 💻 Estou trabalhando na área de Processos de uma grande rede de Varejo e estou procurando meu primeiro emprego de desenvolvedor ...
+- 🌱 Atualmente, aprendendo muito sobre Python e focando meus estudos nessa linguagem...
+- 🤔 Estou procurando ajuda com Python, Inglês e Vue...
+- 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
 - 📫 Como me encontrar: pesquise minhas redes sociais abaixo ...
-- 🥅 2022-2025 Objetivos: Retornar a morar nos EUA, trabalhando como Desenvolvedor Web Full Stack
-- ⚡ Curiosidade: adoro jogar videogame e em equipamentos Apple
+- 🥅 2022-2026 Objetivos: Retornar a morar nos EUA, trabalhando como Desenvolvedor Full Stack
+- ⚡ Curiosidade: adoro jogar videogame e equipamentos Apple. 
 
 <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,18 +42,18 @@ Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me 
  # IN ENGLISH NOW
  
 ### Hi! I'm Leandro Coelho (devLeCoelhoOfficial)
-#### I'm married and student of Full Stack Web Developer
+#### I'm married and student of Full Stack Developer
 
-I've been working with IT for 20 years in the technical area and for the last two years I'm specializing in being a Full Stack Web Programmer. I am married, I have a daughter and two Schnauzer dogs. I love my wife, daughter and dogs so much!
+I've been working with IT for 20 years in the technical area and for the last two years I'm specializing in being a Full Stack Web Programmer. I'm married, I have a daughter and two Schnauzer dogs. I love my wife, daughter and dogs so much!
 
 
-- 💻 I’m seeking for my first dev job… 
-- 🌱 I’m currently learning a little bit of everything… 
-- 🤔 I’m looking for help with VUE 
-- 💬 Ask me about anything... 
-- 📫 How to reach me: search my social networks below... 
-- 🥅 2022-2025 Goals: Return to live in the US, working as a Full Stack Web Developer 
-- ⚡ Fun fact: I love play videogame and on Apple devices
+- 💻 I'm working in the Process area of a large retail chain stores and I'm looking for my first job as a developer...
+- 🌱 Currently, learning a lot about Python and focusing my studies on this language...
+- 🤔 I'm looking for help with Python, English and Vue...
+- 💬 Ask me about anything... I'm proud that I really enjoy helping other people.. I learn a lot teaching others!
+- 📫 How to find me: search my social networks below...
+- 🥅 2022-2026 Goals: Return to live in the US, working as a Full Stack Developer
+- ⚡ Fun fact: I love playing video games and Apple equipment.
 
 <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
