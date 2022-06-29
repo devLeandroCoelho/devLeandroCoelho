@@ -1,5 +1,5 @@
 ### Oiii! Eu sou devLeCoelhoOfficial
-##### Sou Casado e estudante de Full Stack Desenvolvimento Web
+##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter previsão de conclusão para 2º semestre de 2024
 
 Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me especializando em ser um Programador Full Stack. 
 
@@ -10,7 +10,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha esposa, f
 - 🤔 Estou procurando ajuda com Python, Inglês e Vue...
 - 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
 - 📫 Como me encontrar: pesquise minhas redes sociais abaixo ...
-- 🥅 2022-2026 Objetivos: Retornar a morar nos EUA, trabalhando como Desenvolvedor Full Stack
+- 🥅 2027-2032 Objetivos: Retornar a morar nos EUA, trabalhando como Desenvolvedor Full Stack
 - ⚡ Curiosidade: adoro jogar videogame e equipamentos Apple. 
 
 <div style="display: inline_block">
@@ -79,3 +79,4 @@ I've been working with IT for 20 years in the technical area and for the last tw
 ![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
 ![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)
   </div>
+
