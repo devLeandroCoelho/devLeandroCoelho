@@ -22,7 +22,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha esposa, f
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png">
+  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
   <img align="center"height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 </div>
   
@@ -65,7 +65,7 @@ I've been working with IT for 20 years in the technical area and for the last tw
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png">
+  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
   <img align="center"height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 </div>
   
