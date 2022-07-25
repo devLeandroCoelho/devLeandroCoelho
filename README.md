@@ -1,7 +1,6 @@
 ### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
 <div style="display: inline_block">
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
-  <img align="center"height="50" width="90" src="https://cdn.worldvectorlogo.com/logos/santa-catarina.svg">
 </div>
 ##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter
 
@@ -51,8 +50,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
  
 ### Hi, I'm Leandro Prazeres Coelho (devLeCoelhoOfficial)
 <div style="display: inline_block">
-  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
-  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/santa-catarina.svg">
+  <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
 </div>
 ##### I'm married, graduated in Full Stack Web Development at DigitalHouse and graduating in Systems Analysis and Development at Uninter
 I've been working in IT for 20 years and for the last two years I've been specializing in being a Full Stack Programmer.
