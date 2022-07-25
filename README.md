@@ -1,7 +1,7 @@
 ### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
 <div style="display: inline_block">
-  <img align="center"height="50" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
-  <img align="center"height="50" src="https://cdn.worldvectorlogo.com/logos/santa-catarina.svg">
+  <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
+  <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/santa-catarina.svg">
 </div>
 ##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter
 
