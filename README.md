@@ -19,7 +19,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center"height="30" width="40" src="hhttps://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
@@ -63,7 +63,7 @@ I'm married, I have a daughter and two Schnauzer dogs. I love my family very muc
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center"height="30" width="40" src="hhttps://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
