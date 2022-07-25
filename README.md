@@ -42,19 +42,19 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 
  # IN ENGLISH NOW
  
-### Hi! I'm Leandro Coelho (devLeCoelhoOfficial)
-#### I'm married and student of Full Stack Developer
+###Hi, I'm Leandro Prazeres Coelho (devLeCoelhoOfficial)
+#####I'm married, graduated in Full Stack Web Development at DigitalHouse and graduating in Systems Analysis and Development at Uninter
+I've been working in IT for 20 years and for the last two years I've been specializing in being a Full Stack Programmer.
 
-I've been working with IT for 20 years in the technical area and for the last two years I'm specializing in being a Full Stack Programmer. I'm married, I have a daughter and two Schnauzer dogs. I love my wife, daughter and dogs so much!
+I'm married, I have a daughter and two Schnauzer dogs. I love my family very much!
 
-
-- 💻 I'm working in the Process area of a large retail chain stores and I'm looking for my first job as a developer...
-- 🌱 Currently, learning a lot about Python and focusing my studies on this language...
-- 🤔 I'm looking for help with Python, English and Vue...
-- 💬 Ask me about anything... I'm proud that I really enjoy helping other people.. I learn a lot teaching others!
-- 📫 How to find me: search my social networks below...
-- 🥅 2022-2026 Goals: Return to live in the US, working as a Full Stack Developer
-- ⚡ Fun fact: I love playing video games and Apple equipment.
+💻 I'm looking for my first experience as a Junior Developer...
+🌱 Currently, learning a lot about VUE and focusing my studies on this framework...
+🤔 I accept help to learn English, python and VUE..
+💬 Ask me about anything... I'm proud that I really enjoy helping other people.. I learn a lot teaching others!
+📫 How to find me: search my social networks below...
+🥅 2027-2032 Goals: Live outside Brazil again, working as a Full Stack Developer
+⚡ Fun fact: I love playing video games and Apple equipment.
 
 <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -74,7 +74,7 @@ I've been working with IT for 20 years in the technical area and for the last tw
 <div> 
   <a href="https://instagram.com/lecoelhoofficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/MBXryGEB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lecoelhoofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:devleandrocoelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lecoelhoofficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 #### A SNAKE!!! LOL
   
