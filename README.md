@@ -42,8 +42,8 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 
  # IN ENGLISH NOW
  
-###Hi, I'm Leandro Prazeres Coelho (devLeCoelhoOfficial)
-#####I'm married, graduated in Full Stack Web Development at DigitalHouse and graduating in Systems Analysis and Development at Uninter
+### Hi, I'm Leandro Prazeres Coelho (devLeCoelhoOfficial)
+##### I'm married, graduated in Full Stack Web Development at DigitalHouse and graduating in Systems Analysis and Development at Uninter
 I've been working in IT for 20 years and for the last two years I've been specializing in being a Full Stack Programmer.
 
 I'm married, I have a daughter and two Schnauzer dogs. I love my family very much!
