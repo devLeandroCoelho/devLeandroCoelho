@@ -2,6 +2,7 @@
 <div style="display: inline_block">
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
 </div>
+
 ##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter
 
 Trabalho com TI há 20 anos e nos últimos dois anos estou me especializando em ser um Programador Full Stack. 
@@ -52,6 +53,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 <div style="display: inline_block">
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
 </div>
+
 ##### I'm married, graduated in Full Stack Web Development at DigitalHouse and graduating in Systems Analysis and Development at Uninter
 I've been working in IT for 20 years and for the last two years I've been specializing in being a Full Stack Programmer.
 
