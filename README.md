@@ -1,16 +1,16 @@
-### Oiii! Eu sou devLeCoelhoOfficial
-##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter previsão de conclusão para 2º semestre de 2024
+### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
+##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter
 
-Trabalho com TI há 20 anos na área técnica e nos últimos dois anos estou me especializando em ser um Programador Full Stack. 
+Trabalho com TI há 20 anos e nos últimos dois anos estou me especializando em ser um Programador Full Stack. 
 
-Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha esposa, filha e cachorros!
+Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 
-- 💻 Estou trabalhando na área de Processos de uma grande rede de Varejo e estou procurando meu primeiro emprego de desenvolvedor ...
-- 🌱 Atualmente, aprendendo muito sobre Python e focando meus estudos nessa linguagem...
-- 🤔 Estou procurando ajuda com Python, Inglês e Vue...
+- 💻 Estou procurando minha primeira experiência como desenvolvedor Júnior ...
+- 🌱 Atualmente, aprendendo muito sobre VUE e focando meus estudos nesse framework...
+- 🤔 Aceito ajuda para aprender inglês, python e VUE..
 - 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
 - 📫 Como me encontrar: pesquise minhas redes sociais abaixo ...
-- 🥅 2027-2032 Objetivos: Retornar a morar nos EUA, trabalhando como Desenvolvedor Full Stack
+- 🥅 2027-2032 Objetivos: Morar novamente fora do Brasil, trabalhando como Desenvolvedor Full Stack
 - ⚡ Curiosidade: adoro jogar videogame e equipamentos Apple. 
 
 <div style="display: inline_block">
@@ -23,7 +23,6 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha esposa, f
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
-  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
   <img align="center"height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 </div>
   
@@ -67,7 +66,6 @@ I've been working with IT for 20 years in the technical area and for the last tw
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
-  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
   <img align="center"height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 </div>
   
