@@ -48,13 +48,13 @@ I've been working in IT for 20 years and for the last two years I've been specia
 
 I'm married, I have a daughter and two Schnauzer dogs. I love my family very much!
 
-💻 I'm looking for my first experience as a Junior Developer...
-🌱 Currently, learning a lot about VUE and focusing my studies on this framework...
-🤔 I accept help to learn English, python and VUE..
-💬 Ask me about anything... I'm proud that I really enjoy helping other people.. I learn a lot teaching others!
-📫 How to find me: search my social networks below...
-🥅 2027-2032 Goals: Live outside Brazil again, working as a Full Stack Developer
-⚡ Fun fact: I love playing video games and Apple equipment.
+- 💻 I'm looking for my first experience as a Junior Developer...
+- 🌱 Currently, learning a lot about VUE and focusing my studies on this framework...
+- 🤔 I accept help to learn English, python and VUE..
+- 💬 Ask me about anything... I'm proud that I really enjoy helping other people.. I learn a lot teaching others!
+- 📫 How to find me: search my social networks below...
+- 🥅 2027-2032 Goals: Live outside Brazil again, working as a Full Stack Developer
+- ⚡ Fun fact: I love playing video games and Apple equipment.
 
 <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
