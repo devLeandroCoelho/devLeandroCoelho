@@ -23,7 +23,7 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-1.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
