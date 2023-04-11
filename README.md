@@ -22,6 +22,8 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeandroCoelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+
+  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
@@ -72,6 +74,7 @@ I'm married, I have a daughter and two Schnauzer dogs. I love my family very muc
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeandroCoelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
