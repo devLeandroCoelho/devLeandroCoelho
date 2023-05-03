@@ -3,11 +3,27 @@
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
 </div>
 
-##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e graduando de Analise e Desenvolvimento de Sistemas pela Uninter
+##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e formando em Análise e Desenvolvimento de Sistemas. 
 
-Trabalho com TI há 21 anos e nos últimos dois anos estou me especializando em ser um Programador Full Stack. 
+##### Atualmente desenvolvo soluções em Java com utilização do Spring Boot no Back-end e AngularJS no front-end. Também tenho experiência com MongoDB, PostgreSQL e PHP. Em minhas recentes atividades estive a frente da migração de uma aplicação de Postgres para MongoDB.
 
-Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
+##### Destaco dois grandes desafios que tive em minha carreira, sendo o primeiro referente à mudança de carreira, pois já era um profissional de 20 anos de experiencia na área de Gestão de TI quando resolvi buscar formação e conhecimento na area de desenvolvimento de softwares; o segundo desafio foi liderar uma equipe de Central de Serviços Compartilhados, a qual gerenciava os chamados de TI e equipes de segundo nível e terceirizados. 
+
+Tenho conhecimentos em:
+- Java
+- Spring Boot
+- Javascript
+- Angular JS
+- ReactJS
+- MongoDB
+- PostgreSQL
+
+Idiomas:
+- Inglês - Intermediario
+- Português - Nativo
+- Espanhol - Basico
+
+Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 
 - 💻 Estou procurando minha primeira experiência como desenvolvedor Júnior ...
 - 🌱 Atualmente, aprendendo muito sobre JAVA e focando meus estudos nessa linguagem...
@@ -56,10 +72,27 @@ Sou casado, tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
 </div>
 
-##### I'm married, graduated in Full Stack Web Development at DigitalHouse and graduating in Systems Analysis and Development at Uninter
-I've been working in IT for 20 years and for the last two years I've been specializing in being a Full Stack Programmer.
+##### I'm married, I have a degree in Full Stack Web Development from DigitalHouse and a degree in Systems Analysis and Development. 
 
-I'm married, I have a daughter and two Schnauzer dogs. I love my family very much!
+##### I currently develop solutions in Java using Spring Boot on the backend and AngularJS on the frontend. I also have experience with MongoDB, PostgreSQL and PHP. In my recent activities I was in charge of migrating an application from Postgres to MongoDB.
+
+##### I would like to highlight two major challenges that I had in my career, the first being related to a career change, as I was already a professional with 20 years of experience in the IT Management area when I decided to seek training and knowledge in the area of software development; the second challenge was to lead a Shared Services Center team, which managed calls from IT and second-level and outsourced teams.
+
+I have knowledge in:
+- Java
+- Spring Boot
+- Javascript
+- Angular JS
+- ReactJS
+- MongoDB
+- PostgreSQL
+
+Languages:
+- Intermediary English
+- Native Portuguese
+- Basic Spanish
+
+I have a daughter and two Schnauzer dogs. I love my family very much!
 
 - 💻 I'm looking for my first experience as a Junior Developer...
 - 🌱 Currently learning a lot about JAVA and focusing my studies on this language...
