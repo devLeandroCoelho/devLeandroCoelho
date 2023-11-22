@@ -11,9 +11,9 @@
 
 Tenho conhecimentos em:
 - Java
-- Spring Boot
+- Spring
 - Javascript
-- Angular JS
+- Angular
 - ReactJS
 - MongoDB
 - PostgreSQL
@@ -80,9 +80,9 @@ Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 
 I have knowledge in:
 - Java
-- Spring Boot
+- Spring
 - Javascript
-- Angular JS
+- Angular
 - ReactJS
 - MongoDB
 - PostgreSQL
