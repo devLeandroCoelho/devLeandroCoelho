@@ -5,7 +5,7 @@
 
 ##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e formando em Análise e Desenvolvimento de Sistemas. 
 
-##### Atualmente desenvolvo soluções em Java com utilização do Spring Boot no Back-end e AngularJS no front-end. Também tenho experiência com MongoDB, PostgreSQL e PHP. Em minhas recentes atividades estive a frente da migração de uma aplicação de Postgres para MongoDB.
+##### Atualmente desenvolvo soluções em Java com utilização do framework Spring no Back-end e AngularJS no front-end. Também tenho experiência com MongoDB, PostgreSQL e PHP.
 
 ##### Destaco dois grandes desafios que tive em minha carreira, sendo o primeiro referente à mudança de carreira, pois já era um profissional de 20 anos de experiencia na área de Gestão de TI quando resolvi buscar formação e conhecimento na area de desenvolvimento de softwares; o segundo desafio foi liderar uma equipe de Central de Serviços Compartilhados, a qual gerenciava os chamados de TI e equipes de segundo nível e terceirizados. 
 
