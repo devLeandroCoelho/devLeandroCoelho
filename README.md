@@ -43,7 +43,7 @@ Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/apple.svg">
+  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/apple-11.svg">
   
 </div>
   
