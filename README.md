@@ -1,38 +1,44 @@
-### Olá, sou Leandro Prazeres Coelho (devLeandroCoelho)
+### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
 <div style="display: inline_block">
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
   
 </div>
 
-##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e formando em Análise e Desenvolvimento de Sistemas. 
+#### Resumo:
+Sou um desenvolvedor Full Stack formado pela DigitalHouse, com experiência em Java (Spring) no Back-end e AngularJS no front-end. Tenho expertise em MongoDB, PostgreSQL e PHP.
 
-##### Atualmente desenvolvo soluções em Java com utilização do framework Spring no Back-end e AngularJS no front-end. Também tenho experiência com MongoDB, PostgreSQL e PHP.
+#### Experiências Notáveis:
+Destaco dois grandes desafios em minha carreira:
+1. Mudança de carreira após 20 anos na área de Gestão de TI.
+2. Liderança de uma equipe de Central de Serviços Compartilhados.
 
-##### Destaco dois grandes desafios que tive em minha carreira, sendo o primeiro referente à mudança de carreira, pois já era um profissional de 20 anos de experiencia na área de Gestão de TI quando resolvi buscar formação e conhecimento na area de desenvolvimento de softwares; o segundo desafio foi liderar uma equipe de Central de Serviços Compartilhados, a qual gerenciava os chamados de TI e equipes de segundo nível e terceirizados. 
-
-Tenho conhecimentos em:
+#### Habilidades:
 - Java
 - Spring
-- Javascript
+- JavaScript
 - Angular
 - ReactJS
 - MongoDB
 - PostgreSQL
 
-Idiomas:
-- Inglês - Intermediario
+#### Idiomas:
+- Inglês - Intermediário
 - Português - Nativo
-- Espanhol - Basico
+- Espanhol - Básico
 
-Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
+#### Sobre Mim:
+Casado, pai de uma filha e amante de dois cães Schnauzer. Adoro minha família!
 
-- 💻 Estou procurando ampliar minha experiência como desenvolvedor ...
-- 🌱 Atualmente, aprendendo muito sobre JAVA e focando meus estudos nessa linguagem...
-- 🤔 Aceito ajuda para aprender inglês..
-- 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
-- 📫 Como me encontrar: pesquise minhas redes sociais abaixo ...
-- 🥅 2027-2032 Objetivos: Morar novamente fora do Brasil, trabalhando como Desenvolvedor Full Stack
-- ⚡ Curiosidade: adoro jogar videogame e equipamentos Apple. 
+#### Objetivos (2027-2032):
+Morar novamente fora do Brasil, trabalhando como Desenvolvedor Full Stack.
+
+#### Atualmente:
+- 💻 Procurando ampliar minha experiência como desenvolvedor.
+- 🌱 Aprendendo muito sobre Java e focando meus estudos nessa linguagem.
+- 🤔 Aceito ajuda para aprender inglês.
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar e aprender ensinando!
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lecoelhoofficial/), [Instagram](https://instagram.com/lecoelhoofficial), [Discord](https://discord.gg/MBXryGEB), [Email](mailto:devleandrocoelho@gmail.com).
+
 
 <div style="display: inline_block"><br>
 
