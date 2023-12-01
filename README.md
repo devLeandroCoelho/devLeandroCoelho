@@ -33,10 +33,6 @@ Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
 - 🥅 2027-2032 Objetivos: Morar novamente fora do Brasil, trabalhando como Desenvolvedor Full Stack
 - ⚡ Curiosidade: adoro jogar videogame e equipamentos Apple. 
 
-<div style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devLeandroCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeandroCoelho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
 
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/jee-3.svg">
@@ -58,9 +54,4 @@ Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
  <a href="https://discord.gg/MBXryGEB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:devleandrocoelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lecoelhoofficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ## Olha a Cobra!!! KKK
-![Snake animation](https://github.com/devLeCoelhoOfficial/devLeCoelhoOfficial/blob/output/github-contribution-grid-snake.svg)
-![Profile views](https://gpvc.arturio.dev/devLeCoelhoOfficial)
- 
 </div>
