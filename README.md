@@ -1,7 +1,7 @@
-![image](https://github.com/devLeandroCoelho/devLeandroCoelho/assets/63324460/6047d86a-78ed-4c69-bf6b-02b61a680a7d)### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
+### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
 <div style="display: inline_block">
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
-  <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/santa-catarina.svg">
+  <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/governo-do-estado-de-santa-catarina-br.svg">
   
 </div>
 
