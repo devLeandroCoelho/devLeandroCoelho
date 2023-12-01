@@ -1,6 +1,8 @@
-### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
+![image](https://github.com/devLeandroCoelho/devLeandroCoelho/assets/63324460/6047d86a-78ed-4c69-bf6b-02b61a680a7d)### Olá, sou Leandro Prazeres Coelho (devLeCoelhoOfficial)
 <div style="display: inline_block">
   <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
+  <img align="center"height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/santa-catarina.svg">
+  
 </div>
 
 ##### Sou Casado, formado em Full Stack Desenvolvimento Web pela DigitalHouse e formando em Análise e Desenvolvimento de Sistemas. 
@@ -43,7 +45,7 @@ Tenho uma filha e dois cães Schnauzer. Eu amo muito minha família!
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
   <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-  <img align="center"height="30" src="https://cdn.worldvectorlogo.com/logos/apple-11.svg">
+  <img align="center"height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/apple-11.svg">
   
 </div>
   
