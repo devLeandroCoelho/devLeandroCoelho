@@ -9,7 +9,7 @@ Sou um desenvolvedor Full Stack formado pela DigitalHouse, com experiência em J
 
 #### Experiências Notáveis:
 Destaco dois grandes desafios em minha carreira:
-1. Mudança de carreira após 20 anos na área de Gestão de TI.
+1. Mudança de carreira após 10 anos na área de Gestão de TI.
 2. Liderança de uma equipe de Central de Serviços Compartilhados.
 
 #### Habilidades:
